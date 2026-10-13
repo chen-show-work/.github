@@ -1,4 +1,4 @@
-# ✨
+# ✨ 工作项目集成
 
 ## 🛠️ 快速开始
 
@@ -35,7 +35,7 @@ node版本：18.x以上
 <table>
   <tr>
     <th>项目名</th>
-    <th colspan="2">个人网页集成管理</th>
+    <th colspan="2">工作项目集成管理</th>
   </tr>
   <tr>
     <th rowspan="2">关于</th>
